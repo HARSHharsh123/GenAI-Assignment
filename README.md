@@ -2,7 +2,7 @@
 
 This Streamlit web application allows users to generate multiple-choice questions (MCQs), fill-in-the-blank questions, and true/false questions based on the input text provided. The generated questions are tailored to the specified subject and level of complexity.
 
-project Demo 
+## project Demo 
 
 
 https://github.com/HARSHharsh123/GenAI-Assignment/assets/103876348/06f86e8a-8d77-4de3-bc11-7b879a11c2e5
